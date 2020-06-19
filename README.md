@@ -1,4 +1,4 @@
-## Script para migrar repos desde bitbuket a gitlab
+## Script para migrar repos desde bitbucket a gitlab
 
 ## Antes de correr este script: 
 * Recuerda crear el repo en gitlab
